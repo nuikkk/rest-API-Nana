@@ -1,0 +1,44 @@
+[
+    {
+        "nama" : "Husna Haryadi",
+        "umur" : 17,
+        "nim" : "2217020070",
+        "lulus" : true,
+        "hobby" : [
+            "renang",
+            "makan",
+            "music"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Fauzy",
+            "pembimbing 2" : "Yaslinda"
+        }
+    },
+    {
+        "nama" : "Muhammad Syafar",
+        "umur" : 25,
+        "nim" : "2617020125",
+        "lulus" : false,
+        "hobby" : [
+            "voly"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Muhammad Teguh Briliant",
+            "pembimbing 2" : "Ozzy Secio Riza"
+        }
+    },
+    {
+        "nama" : "Suci Khalisyafitri",
+        "umur" : 20,
+        "nim" : "2917020048",
+        "lulus" : false,
+        "hobby" : [
+            "membaca",
+            "memasak"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Novia Lestari",
+            "pembimbing 2" : "haditya Prasetyo"
+        }
+    }
+]
